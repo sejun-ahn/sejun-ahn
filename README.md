@@ -8,4 +8,4 @@
     - ML / DL skills
 
 - ⚡ Fun fact:
-    - Is it fun? ah,,, Thank you
+    - I'm fun

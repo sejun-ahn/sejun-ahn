@@ -1,9 +1,7 @@
 - 👀 I’m interested in
     - 🗺️ Neural Inertial Odometry & Navigation & Localization
-    - 🕵️‍♀️ SLAM
+    - 🤷‍♂️ Inertial Motion Capture
     - 🤝 Sensor Fusion
-    - 🔫 Gaussian Splatting
-    - 🤷‍♂️ Motion Capture
  
 - 🌱 I’m currently learning
     - 🤖 Robotics
